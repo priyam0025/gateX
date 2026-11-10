@@ -1,4 +1,4 @@
-package com.jeezus.gatex.gateway.dto.responseDto;
+package com.jeezus.gatex.gateway.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

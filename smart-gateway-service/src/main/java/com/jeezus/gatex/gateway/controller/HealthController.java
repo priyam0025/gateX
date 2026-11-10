@@ -1,6 +1,6 @@
 package com.jeezus.gatex.gateway.controller;
 
-import com.jeezus.gatex.gateway.dto.responseDto.HealthResponse;
+import com.jeezus.gatex.gateway.dto.HealthResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
